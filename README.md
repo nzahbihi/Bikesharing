@@ -1,6 +1,6 @@
 # Bikesharing
 ## Overview
-The purpose of this analysis was to analyze New York City (NYC) Citibike data, specifically from August 2019, to aid in determining whether a bike-sharing program in Des Moines, IA could be fruitful.
+The purpose of this analysis is to analyze New York City (NYC) Citibike data, specifically from August 2019, to aid in determining whether a bike-sharing program in Des Moines, IA could be successful.
 
 ## Resources
   * Data Source: [Citibike NYC Data](https://ride.citibikenyc.com/system-data)
@@ -45,7 +45,6 @@ The final query we investigated for this analysis was trips by gender, by weekda
 The chart shows that the customers' genders are relatively spread out. However, for subscribers, we can see that a majority of the subscribers are men, followed by women, then unknown.
 
 ## Summary
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 Our visualization of the NYC Citibike data has provided valuable insights into how the bike-sharing program is utilized. We can see that the bikes are commonly used in in the mornings and evenings Monday through Friday, but on the weekends, they're steadily used from approximately 9:00AM to 7:00PM. Thus, we could infer that the bikes may be used frequently in the mornings and evenings for people who are traveling to and from work using the bike-sharing program. This is backed up by our chart showcasing the user type and gender. Comparing subscribers to customers, we see that subscribers, who likely live in the area, use the bikes more often than customers, who are likely tourists.
 
 We can also infer from the visualization that a high number of men use the subscription service, and make more trips compared to women and users in the unknown category. That being said, the trend of the day and hours of usage are similar across gender, as shown in the sixth chart.
