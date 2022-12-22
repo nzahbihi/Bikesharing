@@ -7,7 +7,7 @@ The purpose of this analysis is to analyze New York City (NYC) Citibike data, sp
   * Software: Tableau 22.2.1
 
 ## Results
-The Tableau Story showcasing our data analysis can be found [here](https://public.tableau.com/views/NYCCitiBikeDataVisualization_16627901911830/NYCCitiBikeDataVisualization?:language=en-US&:display_count=n&:origin=viz_share_link).
+The Tableau Story showcasing our analysis can be found [here](https://public.tableau.com/views/NYCCitiBikeDataVisualization_16627901911830/NYCCitiBikeDataVisualization?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 The first query we explored was peak hours for the time period we selected, August 2019. We sorted the number of rides by each hour of the day.
 ![Slide 1](https://user-images.githubusercontent.com/106129195/189473315-3e06ea2b-17c2-4df1-ac14-68d3b6d918a0.png)
